@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+seaborn
+openpyxl
+jupyterlab
+requests
+duckdb
+matplotlib
