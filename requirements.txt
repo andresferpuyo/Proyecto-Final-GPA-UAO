@@ -5,5 +5,8 @@ seaborn
 openpyxl
 jupyterlab
 requests
-duckdb
-matplotlib
+statsmodels
+prophet
+ipywidgets
+joblib
+plotly
