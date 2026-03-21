@@ -7,7 +7,7 @@ Smart Analytics IES es un modelo analítico diseñado para transformar la gesti�
 El propósito central es crear valor estratégico al fundamentar las decisiones de planeación académica en evidencia robusta, permitiendo proyectar la matrícula a un horizonte de 5 años y reducir la incertidumbre institucional.
 
 
-## ✨ Funcionalidades
+## Funcionalidades
 
 - Extracción y consolidación de 11 archivos históricos oficiales del SNIES (formato Excel).
 - Normalización y limpieza de variables del dataset.
@@ -19,7 +19,7 @@ El propósito central es crear valor estratégico al fundamentar las decisiones 
 - Identificación de programas académicos con tendencia decreciente estructural.
 - Proyección de matrícula a un horizonte de 5 años mediante modelos estadísticos.
 
-## 🚀 Cómo usar el proyecto localmente
+## Cómo usar el proyecto localmente
 
 ### Prerrequisitos
 
@@ -71,7 +71,7 @@ docker-compose down
 
 ---
 
-## 📦 Dependencias principales
+## Dependencias principales
 
 | Librería | Uso |
 |---|---|
@@ -85,7 +85,7 @@ docker-compose down
 
 ---
 
-## 📖 Diccionario de datos
+## Diccionario de datos
 
 | Variable | Tipo | Descripción | Ejemplo |
 |---|---|---|---|
@@ -106,7 +106,7 @@ docker-compose down
 ---
 
 
-## 👤 Autores
+## Autores
 
 | Nombre | Rol |
 |---|---|
