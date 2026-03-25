@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+seaborn
+openpyxl
+jupyterlab
+requests
+statsmodels
+prophet
+ipywidgets
+joblib
+plotly
