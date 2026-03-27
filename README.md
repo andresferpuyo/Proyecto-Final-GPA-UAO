@@ -32,8 +32,8 @@ Antes de comenzar, asegúrate de tener instalados:
 
 **1. Clona el repositorio**
 ```bash
-git clone https://github.com/tu-usuario/smart-analytics-ies.git
-cd smart-analytics-ies
+git clone https://github.com/andresferpuyo/Proyecto-Final-GPA-UAO.git
+cd Proyecto-Final-GPA-UAO
 ```
 
 **2. Levanta el entorno con Docker**
